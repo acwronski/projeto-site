@@ -1,5 +1,4 @@
 import pygame
-
 from player import Guy
 # inicializando o pygame
 
@@ -44,3 +43,4 @@ if __name__ == "__main__":
         objectGroup.draw(display)
       
         pygame.display.update()
+
